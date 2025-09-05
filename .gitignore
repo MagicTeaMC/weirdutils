@@ -1,0 +1,33 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+wc
+ls
+cp
+mv
+rm
+cat
+echo
+touch
+chmod
+chown
+pwd
+head
+tail
+stat
+du
+df
+
+# Object files
+*.obj
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Test files
+testfile
