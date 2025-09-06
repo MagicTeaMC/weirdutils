@@ -18,6 +18,26 @@ tail
 stat
 du
 df
+mkdir
+rmdir
+basename
+dirname
+grep
+sort
+uniq
+cut
+tr
+cmp
+tac
+rev
+uname
+whoami
+sleep
+seq
+yes
+true
+false
+sync
 
 # Object files
 *.obj
